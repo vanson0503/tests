@@ -1,0 +1,734 @@
+{
+  "status": 200,
+  "message": "OK",
+  "data": [
+    {
+      "id": 5,
+      "name": "Foundation Building",
+      "type": "personalize",
+      "parentId": 2,
+      "level": 2,
+      "userLevel": "beginner",
+      "time": 0,
+      "bannerUrl": "02_banner/02_collection/week1.png",
+      "description": "Master basic full-body exercises to establish a strong fitness foundation.",
+      "workouts": [
+        {
+          "id": 1,
+          "name": "Move Your Body Slowly",
+          "time": 11,
+          "exercises": 21,
+          "collectionId": 5,
+          "day": 1,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/fullbody0.png",
+          "description": "The hardest part is starting, and you did it already. Now let's begin with a few light exercises to warm your body up",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Sweat It Out",
+          "time": 12,
+          "exercises": 23,
+          "collectionId": 5,
+          "day": 2,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/fullbody1.png",
+          "description": "Hope you're feeling good after yesterday's workout. Now let's spare some minutes to complete your workout today",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 5,
+          "day": 3,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Full Body Burn",
+          "time": 12,
+          "exercises": 23,
+          "collectionId": 5,
+          "day": 4,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/fullbody2.png",
+          "description": "Hope you enjoyed the rest day. Now let's get back on track with a slightly more intense workout than the two previous ones.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Rock Your Body",
+          "time": 11,
+          "exercises": 20,
+          "collectionId": 5,
+          "day": 5,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/fullbody3.png",
+          "description": "You're almost through the week! You may be feeling slightly sore, but that's absolutely normal. Now let's getting your heart rate up with us",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 5,
+          "day": 6,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Crush Your Goals",
+          "time": 11,
+          "exercises": 23,
+          "collectionId": 5,
+          "day": 7,
+          "week": 1,
+          "bannerUrl": "04_workout/01_personalize/fullbody4.png",
+          "description": "It's time to finish the week strong. Today's workout is going to be a little more challenging but don't worry! You're going to do just fine.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        }
+      ],
+      "country": "US",
+      "language": "en",
+      "order": 9999,
+      "isDisplayed": 1
+    },
+    {
+      "id": 6,
+      "name": "Rapid Weightloss",
+      "type": "personalize",
+      "parentId": 2,
+      "level": 2,
+      "userLevel": "beginner",
+      "time": 0,
+      "bannerUrl": "02_banner/02_collection/week2.png",
+      "description": "Explore various full-body workouts, emphasizing form and technique.",
+      "workouts": [
+        {
+          "id": 8,
+          "name": "Sweat And Shred",
+          "time": 12,
+          "exercises": 24,
+          "collectionId": 6,
+          "day": 8,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/fullbody5.png",
+          "description": "Congrats! You've made it to week 2. Now let's kickstart the week with a few full-body exercises",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Power Surge",
+          "time": 11,
+          "exercises": 22,
+          "collectionId": 6,
+          "day": 9,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/fullbody6.png",
+          "description": "Hope you're feeling good after yesterday's workout. Now let's spare some minutes to complete your workout today",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 6,
+          "day": 10,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Energy Ignite",
+          "time": 10,
+          "exercises": 20,
+          "collectionId": 6,
+          "day": 11,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/fullbody7.png",
+          "description": "Hope you enjoyed the rest day. Now let's get back on track with a slightly more intense workout than the two previous ones.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Fit And Furious",
+          "time": 14,
+          "exercises": 27,
+          "collectionId": 6,
+          "day": 12,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/fullbody8.png",
+          "description": "You're almost through the week! You may be feeling slightly sore, but that's absolutely normal. Now let's getting your heart rate up with us",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 6,
+          "day": 13,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Dynamic Workout Mix",
+          "time": 10,
+          "exercises": 20,
+          "collectionId": 6,
+          "day": 14,
+          "week": 2,
+          "bannerUrl": "04_workout/01_personalize/fullbody9.png",
+          "description": "It's time to finish the week strong. Today's workout is going to be a little more challenging but don't worry! You're going to do just fine.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        }
+      ],
+      "country": "US",
+      "language": "en",
+      "order": 9999,
+      "isDisplayed": 1
+    },
+    {
+      "id": 7,
+      "name": "Slow Weightloss",
+      "type": "personalize",
+      "parentId": 2,
+      "level": 2,
+      "userLevel": "beginner",
+      "time": 0,
+      "bannerUrl": "02_banner/02_collection/week3.png",
+      "description": "Extend workout durations, and challenge yourself with advanced full-body exercises.",
+      "workouts": [
+        {
+          "id": 15,
+          "name": "Energy Ignite",
+          "time": 14,
+          "exercises": 27,
+          "collectionId": 7,
+          "day": 15,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/fullbody10.png",
+          "description": "Congrats! You've made it to week 3. Now let's kickstart the week with a few full-body exercises",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Powerhouse Training",
+          "time": 13,
+          "exercises": 26,
+          "collectionId": 7,
+          "day": 16,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/fullbody11.png",
+          "description": "Hope you're feeling good after yesterday's workout. Now let's spare some minutes to complete your workout today",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 7,
+          "day": 17,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Rock The Reps",
+          "time": 15,
+          "exercises": 29,
+          "collectionId": 7,
+          "day": 18,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/fullbody12.png",
+          "description": "Hope you enjoyed the rest day. Now let's get back on track with a slightly more intense workout than the two previous ones.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Bodyweight Burnout",
+          "time": 13,
+          "exercises": 26,
+          "collectionId": 7,
+          "day": 19,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/fullbody13.png",
+          "description": "You're almost through the week! You may be feeling slightly sore, but that's absolutely normal. Now let's getting your heart rate up with us",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 7,
+          "day": 20,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Stronger Everyday",
+          "time": 13,
+          "exercises": 25,
+          "collectionId": 7,
+          "day": 21,
+          "week": 3,
+          "bannerUrl": "04_workout/01_personalize/fullbody14.png",
+          "description": "It's time to finish the week strong. Today's workout is going to be a little more challenging but don't worry! You're going to do just fine.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        }
+      ],
+      "country": "US",
+      "language": "en",
+      "order": 9999,
+      "isDisplayed": 1
+    },
+    {
+      "id": 8,
+      "name": "Goal Hitting",
+      "type": "personalize",
+      "parentId": 2,
+      "level": 2,
+      "userLevel": "beginner",
+      "time": 0,
+      "bannerUrl": "02_banner/02_collection/week4.png",
+      "description": "As you approach the finish line, maintain your resolve for a leaner, more resilient physique.",
+      "workouts": [
+        {
+          "id": 22,
+          "name": "Motivated And Moving",
+          "time": 14,
+          "exercises": 28,
+          "collectionId": 8,
+          "day": 22,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/fullbody15.png",
+          "description": "Congrats! You've made it to week 4. Now let's kickstart the week with a few full-body exercises",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Rock The Workout",
+          "time": 11,
+          "exercises": 22,
+          "collectionId": 8,
+          "day": 23,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/fullbody16.png",
+          "description": "Hope you're feeling good after yesterday's workout. Now let's spare some minutes to complete your workout today",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 8,
+          "day": 24,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Energize The Workout",
+          "time": 13,
+          "exercises": 26,
+          "collectionId": 8,
+          "day": 25,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/fullbody17.png",
+          "description": "Hope you enjoyed the rest day. Now let's get back on track with a slightly more intense workout than the two previous ones.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Powerup Workout",
+          "time": 11,
+          "exercises": 22,
+          "collectionId": 8,
+          "day": 26,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/fullbody18.png",
+          "description": "You're almost through the week! You may be feeling slightly sore, but that's absolutely normal. Now let's getting your heart rate up with us",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "TODAY IS A REST DAY\nLET's ENJOY!",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 8,
+          "day": 27,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/rest.png",
+          "description": "Rest is important. It allows your muscles to rebuild and grow. And when you have more muscle, you’ll burn more calories at rest.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Crush Your Goals",
+          "time": 12,
+          "exercises": 24,
+          "collectionId": 8,
+          "day": 28,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/fullbody19.png",
+          "description": "It's the last day of the plan. Today's workout is going to be a little more challenging but don't worry! You're going to do just fine.",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": [
+            {
+              "name": "Yoga Mat",
+              "hashtag": "yogamat",
+              "url": "",
+              "language": "en_US"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Congrats on completing your plan",
+          "time": 0,
+          "exercises": 0,
+          "collectionId": 8,
+          "day": 29,
+          "week": 4,
+          "bannerUrl": "04_workout/01_personalize/complete.png",
+          "description": "",
+          "language": "en",
+          "country": "US",
+          "shortName": "",
+          "viewCount": 0,
+          "equipments": []
+        }
+      ],
+      "country": "US",
+      "language": "en",
+      "order": 9999,
+      "isDisplayed": 1
+    }
+  ]
+}
