@@ -1,7 +1,4 @@
-{
-  "status": 200,
-  "message": "OK",
-  "data": [
+
     {
       "id": 5,
       "name": "Foundation Building",
@@ -730,5 +727,3 @@
       "order": 9999,
       "isDisplayed": 1
     }
-  ]
-}
